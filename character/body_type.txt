@@ -13,3 +13,6 @@ model body
 soft body
 slightly chubby
 chubby
+plump
+skinny
+ribs
