@@ -1,0 +1,12 @@
+white_skin
+pale_skin
+fair_skin
+brown_skin
+dark_skin
+black_skin
+shiny_skin
+white_marble_glowing_skin
+tattoo
+tan
+tanlines
+oil
