@@ -1,0 +1,25 @@
+mage robe
+wizard robe
+sorcerer robe
+sorceress robe
+magic robe
+enchanted robe
+hooded robe
+long robe
+layered robe
+flowing robe
+ornate robe
+ceremonial robe
+ritual robe
+high collar robe
+wide sleeves
+bell sleeves
+flared sleeves
+detached sleeves
+long sleeves
+oversized sleeves
+cape
+cloak
+hooded cloak
+mantle
+capelet
