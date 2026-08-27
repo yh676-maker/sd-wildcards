@@ -1,28 +1,57 @@
-ochaco_uraraka
-tsuyu_asui
-momo_yaoyorozu
-kyoka_jiro
-mina_ashido
-toru_hagakure
-itsuka_kendo
-ibara_shiozaki
-kinoko_komori
-setsuna_tokage
-nejire_hado
-mei_hatsume
-camie_utsushimi
-midnight
-mirko
-mt_lady
-ryukyu
-lady_nagant
-star_and_stripe
-nana_shimura
-himiko_toga
-la_brava
-eri
-fuyumi_todoroki
-rei_todoroki
-inko_midoriya
-melissa_shield
-pop_step
+ochaco_uraraka (boku no hero academia)
+tsuyu_asui (boku no hero academia)
+momo_yaoyorozu (boku no hero academia)
+kyoka_jiro (boku no hero academia)
+mina_ashido (boku no hero academia)
+toru_hagakure (boku no hero academia)
+itsuka_kendo (boku no hero academia)
+ibara_shiozaki (boku no hero academia)
+yui_kodai (boku no hero academia)
+kinoko_komori (boku no hero academia)
+reiko_yanagi (boku no hero academia)
+setsuna_tokage (boku no hero academia)
+pony_tsunotori (boku no hero academia)
+nejire_hado (boku no hero academia)
+mei_hatsume (boku no hero academia)
+camie_utsushimi (boku no hero academia)
+tatami_nakagame (boku no hero academia)
+saiko_intelli (boku no hero academia)
+bibimi_kenranzaki (boku no hero academia)
+habuko_mongoose (boku no hero academia)
+mawata_fuwa (boku no hero academia)
+midnight (boku no hero academia)
+mirko (boku no hero academia)
+mt_lady (boku no hero academia)
+ryukyu (boku no hero academia)
+lady_nagant (boku no hero academia)
+star_and_stripe (boku no hero academia)
+nana_shimura (boku no hero academia)
+thirteen (boku no hero academia)
+recovery_girl (boku no hero academia)
+ms_joke (boku no hero academia)
+bubble_girl (boku no hero academia)
+burnin (boku no hero academia)
+uwabami (boku no hero academia)
+mandalay (boku no hero academia)
+pixie_bob (boku no hero academia)
+ragdoll (boku no hero academia)
+sirius (boku no hero academia)
+himiko_toga (boku no hero academia)
+la_brava (boku no hero academia)
+curious (boku no hero academia)
+magne (boku no hero academia)
+slice (boku no hero academia)
+beros (boku no hero academia)
+kuin_hachisuka (boku no hero academia)
+eri (boku no hero academia)
+inko_midoriya (boku no hero academia)
+mitsuki_bakugo (boku no hero academia)
+fuyumi_todoroki (boku no hero academia)
+rei_todoroki (boku no hero academia)
+ordinary_woman (boku no hero academia)
+melissa_shield (boku no hero academia)
+mahoro_shimano (boku no hero academia)
+anna_scervino (boku no hero academia)
+deborah_gollini (boku no hero academia)
+kazuho_haneyama (boku no hero academia)
+makoto_tsukauchi (boku no hero academia)
